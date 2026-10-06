@@ -1,0 +1,56 @@
+{
+  "count": 8,
+  "total": 230.88000000000002,
+  "categories": [
+    "action",
+    "adventure",
+    "platformer",
+    "roguelike",
+    "sandbox",
+    "simulation"
+  ],
+  "top3": [
+    {
+      "id": 1,
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "category": "adventure",
+      "price": 59.99,
+      "tags": [
+        "open-world",
+        "nintendo"
+      ],
+      "studio": {
+        "name": "Nintendo EPD",
+        "country": "JP"
+      }
+    },
+    {
+      "id": 2,
+      "name": "God of War",
+      "category": "action",
+      "price": 39.99,
+      "tags": [
+        "mythology",
+        "playstation"
+      ],
+      "studio": {
+        "name": "Santa Monica Studio",
+        "country": "US"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dark Souls III",
+      "category": "action",
+      "price": 29.99,
+      "tags": [
+        "souls-like",
+        "difficult"
+      ],
+      "studio": {
+        "name": "FromSoftware",
+        "country": "JP"
+      }
+    }
+  ]
+}
